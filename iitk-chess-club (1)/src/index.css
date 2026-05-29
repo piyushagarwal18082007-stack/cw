@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-chess-bg: #0B0C10;
+  --color-chess-card: #1F2833;
+  --color-chess-teal: #45A29E;
+  --color-chess-neon: #66FCF1;
+  --color-chess-muted: #C5C6C7;
+}

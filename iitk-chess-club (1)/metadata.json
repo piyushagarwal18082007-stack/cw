@@ -1,0 +1,6 @@
+{
+  "name": "IITK Chess Club",
+  "description": "The official website of the Chess Club, IIT Kanpur - promoting the beauty of chess and community engagement across campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
